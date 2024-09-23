@@ -1,8 +1,33 @@
-# React + Vite
+# Recipe App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application allows you to search and view recipes using the Edamam API. Users can find recipes by entering a specific ingredient.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search for recipes by ingredient name
+- Display each recipe's title, calories, ingredients, and image
+- User-friendly interface
+
+## Technologies
+
+- React
+- CSS Modules
+- Edamam API
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/username/recipe-app.git
+
+
+https://github.com/user-attachments/assets/ddf4d5bd-c0ce-406d-a5a3-2207c71b32f3
+
+https://github.com/user-attachments/assets/bdccb17d-f013-47b2-ac9f-3010e936d881
+
+
+
+
+
+
+
