@@ -1,25 +1,18 @@
 # Recipe App
 
-This application allows you to search and view recipes using the Edamam API. Users can find recipes by entering a specific ingredient.
+Bu uygulama, Edamam API'si kullanarak tarifleri aramanıza ve görüntülemenize olanak tanır. Kullanıcılar belirli bir malzeme girerek tarifleri bulabilir.
 
-## Features
+## Özellikler
 
-- Search for recipes by ingredient name
-- Display each recipe's title, calories, ingredients, and image
-- User-friendly interface
+- Malzeme adına göre tarifleri arayın
+- Her tarifin başlığını, kalorisini, malzemelerini ve resmini görüntüleyin
+- Kullanıcı dostu arayüz
 
-## Technologies
+## Teknolojiler
 
 - React
-- CSS Modules
+- CSS Modülleri
 - Edamam API
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/recipe-app.git
-
 
 https://github.com/user-attachments/assets/ddf4d5bd-c0ce-406d-a5a3-2207c71b32f3
 
